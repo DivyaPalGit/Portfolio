@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=BubbleD
+Version=v1.0
+Icon=icon
+X-Icon-Path=~/BubbleD
+Exec=bash -c "python3 ~/BubbleD/main.py" -t 1
+Terminal=false
+Type=Application
