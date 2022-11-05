@@ -1,7 +1,13 @@
 # BubbleD - Bubble chamber Display 
 
-The Bubble chamber Display (BubbleD) is a software made to display and control digitised images of the bubble chamber experiment. The projected image can be controlled using a graphical user interface and/or an external controller. The details of connecting the external controller are in the [controller](controller/README.md) folder and the description of the setup and digitised images of the bubble chamber can be found in sceibo https://uni-bonn.sciebo.de/index.php/apps/files?dir=/212-E/private/experiment-upgrade.
+The Bubble chamber Display (BubbleD) is a software made to display and control digitised images of the bubble chamber experiment. For conducting the experiment multiple images have to be overlapped and projected on a table to be manually analysed by students, mimicing the experimental setup from the 1970's.  
 
+The software opens two windows, one for control and the other for projecting the images in a second display or projector. The control window can be used either for changing settings of the projection like the display selection, background, etc [Figure 1] or movement of the images displayed in the second window [Figure 2].
+
+![Figure 1: Settings](docs/Settings.png)
+![Figure 2: Controller](docs/Controller.png)  
+     
+The projected image can also be controlled using an speciliased input device (refered to as external controller board) made for the experiment. It consists of switches, potentiometers and a joystick connected to a microcontroller board and the functionalities are predefined in the software. The hardware specifics like the pins used in the microncontoller, the display size, tolerences of the input devices, etc can be defined in [configuration](packages\config_table1.py) specific to the table or display to be used for projection.    
 
 ## Dependencies 
 BubbleD requires Python 3 (written in Python 3.8) and PyQt5. 
