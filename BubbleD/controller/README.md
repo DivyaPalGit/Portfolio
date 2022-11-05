@@ -3,7 +3,7 @@
 To connect the BubbleD software to the external controller the `StandardFrimata.ino` should be uploaded to the Teensy 4.1 microcontroller board.
 
 ## Dependencies
-ArduinoIDE with Teensyduino (for installation see https://www.pjrc.com/teensy/tutorial.html) is needed to upload the `StandardFrimata.ino` to the Teensy 4.1 microcontroller board. After installation of ArduinoIDE, the `StandardFrimata.ino` can be found in `Arduino/libraries/Firmata/examples/StandardFirmata` and for it to work with Teensy 4.1 the following additions are required in the `Boards.h` stored in `Arduino/libraries/Firmata`. For the purpose of completion, the `StandardFrimata.ino` and `Board.h` used during development is provided in the folder [StandardFirmata](StandardFirmata).
+ArduinoIDE with Teensyduino (for installation see https://www.pjrc.com/teensy/tutorial.html) is needed to upload the `StandardFrimata.ino` to the Teensy 4.1 microcontroller board. After installation of ArduinoIDE, the `StandardFrimata.ino` can be found in `Arduino/libraries/Firmata/examples/StandardFirmata` and for it to work with Teensy 4.1 the following additions are required in the `Boards.h` stored in `Arduino/libraries/Firmata`.
 
 ```
 // Teensy 4.0 & 4.1
