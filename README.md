@@ -13,7 +13,7 @@ I am a trained physicist who likes to bring ideas to reality. My interests range
 ![Particle tracks](DataAnalysis/Tracks.png)
 
 ## Hardware development
-The following are part of particle detector construction performed as a part of internships, [Master Thesis](https://web.physik.uni-bonn.de/group/view.php?&group=1&lang=de&c=t&id=116) and follow up research work.
+The following are part of particle detector construction performed as a part of internships, [Master Thesis](https://web.physik.uni-bonn.de/group/view.php?&group=1&lang=de&c=t&id=116) and follow up [research](https://arxiv.org/abs/2207.06470).
 
 * Particle detector design using Autodesk :
 ![Detector design](Hardware/DetectorDesign.png)
