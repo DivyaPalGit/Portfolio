@@ -10,22 +10,37 @@ I am a trained physicist who likes to bring ideas to reality. My interests range
 ## Data Analysis
 
 * Particle search using clustering algorithms in python:
-* ![Particle tracks](DataAnalysis/Tracks.png)
+![Particle tracks](DataAnalysis/Tracks.png)
 
 ## Hardware development
 
 * Particle detector design using Autodesk :
-* ![Detector design](Hardware/DetectorDesign.png)
+![Detector design](Hardware/DetectorDesign.png)
 * Electric field simulation using Ansys and Agros2D:
-* ![Ansys simulation](Hardware/Ansys.png)
-* ![Agros2D simulation](Hardware/Agros2D.png)
+
+<p float="center">
+<img src="Hardware/Ansys.png" height=300">
+<img src="Hardware/Agros2D.png" height="300">
+</p>
+
 * PCB designing for particle detectors using Eagle:
-* ![PCB design](Hardware/PCBdesign.png)
+<p align="center">
+![PCB design](Hardware/PCBdesign.png)
+</p>
+
 * FPGA programing for data acquisitions boards using Xilinx Vivado:
-* ![VHDL simulation](Hardware/VHDLsimulation.png)
+<p align="center">
+<img src="Hardware/VHDLsimulation.png" height="300">
+</p>
+
 * Hardware and PCB assembly
-* ![Agros2D simulation](Hardware/WireFieldCage.jpg)
+<p align="center">
+<img src="Hardware/WireFieldCage.jpg" height="300">
+<img src="Hardware/Triggerboard.png" height = "300">
+</p>
 
 ## Creativity
 * Trained painter
-* ![Bird painting](Creative/Bird.jpg)
+<p align="center">
+<img src="Creative/Bird.jpg" height="300">
+</p>
