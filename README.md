@@ -25,7 +25,7 @@ I am a trained physicist who likes to bring ideas to reality. My interests range
 
 * PCB designing for particle detectors using Eagle:
 <p align="center">
-![PCB design](Hardware/PCBdesign.png)
+<img src="Hardware/PCBdesign.png" height="300">
 </p>
 
 * FPGA programing for data acquisitions boards using Xilinx Vivado:
